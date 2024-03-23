@@ -1,9 +1,13 @@
+/* Google font import */
+@import url('https://fonts.googleapis.com/css2?family=Chathura:wght@100;300;400;700;800&display=swap')
+
 /* Asterix wildcard selector to override defult styles add by the web browser */
 * {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
 }
+
 
 /* Genral stlyes */
 body {
@@ -12,6 +16,7 @@ body {
     flex-direction: column;
     /* Generic project styles */
     color: #3a3a3a;
+    font-family: "Chathura", sans-serif;
 }
 
 /* Header */
