@@ -36,8 +36,16 @@ h1 {
 
 #menu {
     list-style-type: none;
-    padding-top: 1rem;
-    padding-bottom: 1rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+}
+
+#menu > li {
+    margin-bottom: 0.5em;
+}
+
+.active {
+    border-bottom: 1px solid black;
 }
 
 /* Main Content */
