@@ -85,16 +85,30 @@ main {
     margin-top: 100px;
 }
 
-/* Tablets and larger (768px and up) */
+/* Media query Width {414px and up} */
+
+@media screen and (min-width:414px) {
+    main {
+        margin-top: 100px;
+    }
+    #logo {
+        font-size: 200%;
+        line-height: 80px;
+    }
+}
+
+
+/* Media query Tablets and larger (768px and up) */
 
 @media screen and (min-width:768px) {
     /* Header */
 
     main {
-        margin-top: 76px;
+        margin-top: 100px;
     }
     #logo {
         font-size: 200%;
+        line-height: 80px;
     }
     nav {
         display: block;
@@ -115,7 +129,7 @@ main {
 }
 
 
-/* Large devices (laptop and desktops, 992px and up) */
+/* Media query Large devices (laptop and desktops, 992px and up) */
 
 @media screen and (min-width: 992px) {
     #menu a:hover{
