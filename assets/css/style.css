@@ -14,7 +14,7 @@ body {
     display: flex;
     flex-direction: column;
     /* Generic project styles */
-    color: #3a3a3a;
+    color: #5a5a5a;
     font-family: "Hanuman", serif;
 }
 
@@ -100,13 +100,38 @@ main {
 }
 
 #cover-text {
-    background-color: rgba(94, 71, 44, 0.808);
+    background-color: rgba(138, 93, 41, 0.808);
     font-size: 140%;
     color: white;
     position: absolute;
     bottom: 5px;
     max-height: 400px;
     padding: 2px 10px;
+}
+
+#company-values {
+    margin: 20px auto;
+    }
+
+#company-values h2 {
+    font-size: 200%;
+    padding: 0 5px;
+    color: rgb(138, 93, 41);
+}
+
+#company-values h3 {
+    padding: 10px;
+    line-height: 20px;
+    color:black
+}
+
+#company-values hr {
+    border-top: 2px solid black;
+    margin: 0 10px;
+}
+
+#company-values p {
+    padding-left: 25px;
 }
 
 /* Footer */
