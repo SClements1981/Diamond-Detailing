@@ -25,7 +25,6 @@ header {
     position: fixed;
     z-index: 99;
     width: 100%;
-    box-shadow: 0 4px 2px #303030;
     display: flex;
     justify-content: space-between;
     align-items: baseline;
@@ -34,7 +33,7 @@ header {
 h1 {
     font-family: "Petit Formal Script", cursive;
     color: black;
-    font-size: 300%;
+    font-size: 200%;
 }
 
 #menu {
@@ -83,13 +82,20 @@ main {
     background-color: seagreen;
     /* Make main element take up any surplus space to push footer down */
     flex: 1 0 auto;
-    margin-top: 140px;
+    margin-top: 100px;
 }
 
 /* Tablets and larger (768px and up) */
 
 @media screen and (min-width:768px) {
     /* Header */
+
+    main {
+        margin-top: 76px;
+    }
+    #logo {
+        font-size: 200%;
+    }
     nav {
         display: block;
         position: relative;
