@@ -85,6 +85,21 @@ main {
     margin-top: 100px;
 }
 
+/* Footer */
+
+#social-links {
+    text-align: center;
+    padding: 1px 0;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+}
+ #social-links li {
+    font-size: 180%;
+    padding: 2%;
+    color: black;
+ }
+
 /* Media query Width {414px and up} */
 
 @media screen and (min-width:414px) {
@@ -135,14 +150,4 @@ main {
     #menu a:hover{
         border-bottom: 1px solid black;
     }
-}
-
-/* Footer */
-
-#social-links {
-    text-align: center;
-    padding: 15px 0;
-    display: flex;
-    justify-content: space-evenly;
-    list-style-type: none;
 }
