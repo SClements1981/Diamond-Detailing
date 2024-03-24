@@ -139,6 +139,10 @@ main {
 
 /* Footer */
 
-footer {
-    background-color: yellow;
+#social-links {
+    text-align: center;
+    padding: 15px 0;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
 }
