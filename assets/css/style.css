@@ -15,7 +15,7 @@ body {
     flex-direction: column;
     /* Generic project styles */
     color: #3a3a3a;
-    font-family: "Hanuman, serif";
+    font-family: "Hanuman", serif;
 }
 
 /* Header */
@@ -29,12 +29,15 @@ header {
 }
 
 h1 {
-    font-family: "Petit Formal Script";
+    font-family: "Petit Formal Script", cursive;
     color: black;
+    font-size: 300%;
 }
 
 #menu {
     list-style-type: none;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
 }
 
 /* Main Content */
