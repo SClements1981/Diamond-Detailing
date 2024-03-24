@@ -20,12 +20,15 @@ body {
 
 /* Header */
 header {
-    background-color: aqua;
-    padding: 0 1rem;
+    background-color: white;
+    padding: 10px 1rem;
     position: fixed;
     z-index: 99;
     width: 100%;
     box-shadow: 0 4px 2px #303030;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
 }
 
 h1 {
@@ -46,6 +49,33 @@ h1 {
 
 .active {
     border-bottom: 1px solid black;
+}
+
+/* Navbar styles with dropdown toggle */
+ nav {
+    position: absolute;
+    background-color: white;
+    width: 100%;
+    padding: 0 1rem;
+    box-shadow: 0 4px 2px #303030;
+    left: 0;
+    display: none;
+    top: 100%;
+    hid
+ }
+
+/* Nav toggle */
+
+#nav-toggle:checked~nav{
+    display: block;
+}
+
+#nav-toggle {
+    display: none;
+}
+
+.nav-toggle-label {
+    font-size: 2rem;
 }
 
 /* Main Content */
