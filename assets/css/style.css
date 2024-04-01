@@ -88,6 +88,7 @@ main {
     /* Make main element take up any surplus space to push footer down */
     margin-top: 100px;
     flex: 1 0 auto;
+    background-color: bisque;
 }
 
 /* car cleaning section */
@@ -100,7 +101,7 @@ main {
 }
 
 #cover-text {
-    background-color: rgba(138, 93, 41, 0.808);
+    background-color: rgba(138, 93, 41, 0.8);
     font-size: 140%;
     color: white;
     position: absolute;
