@@ -129,9 +129,8 @@ main {
     border-top: 2px solid black;
     margin: 0 10px;
 }
-
-#company-values p {
-    padding-left: 25px;
+p {
+    padding:0 25px;
 }
 
 /* Footer */
