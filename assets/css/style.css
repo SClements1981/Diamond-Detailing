@@ -184,7 +184,9 @@ p {
 
 #contact-page {
     background: url("../images/car-wash-bay.jpg") no-repeat center center/cover;
-    width: 100%;
+    background-size: cover;
+    background-position: 75%;
+    flex-grow: 1;
 }
 
 hr {
@@ -194,6 +196,9 @@ hr {
 
 #enquires {
     color: white;
+    font-size: 120%;
+    background-color: rgba(60, 60, 60, 0.7);
+    margin: 30px 10%;
 }
 
 /* Footer */
