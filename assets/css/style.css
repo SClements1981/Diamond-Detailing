@@ -189,6 +189,22 @@ p {
     .nav-toggle-label {
         display: none;
     }
+
+    /* company values */
+    
+   #company-values > div {
+    vertical-align: top;
+    display: inline-block;
+    width: 32%;
+   }
+
+   p {
+    padding: 0 10px;
+    font-size: 110%;
+    text-align: justify;
+   }
+
+
 }
 
 
