@@ -182,9 +182,18 @@ p {
 
 /* Contact page */
 
+#contact-page {
+    background: url("../images/car-wash-bay.jpg") no-repeat center center/cover;
+    width: 100%;
+}
+
 hr {
     display: none;
     padding: 10px 0;
+}
+
+#enquires {
+    color: white;
 }
 
 /* Footer */

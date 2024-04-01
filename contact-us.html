@@ -33,21 +33,27 @@
         </nav>
     </header>
     <!-- Main content -->
-    <main>
-        <section id="contact-page">
-            <div id="contact-form">
+    <main id="contact-page">
+        <section id="enquires">
+            <form id="contact-form" method="post" action="https://formdump.codeinstitute.net"></form>
+            <div>
                 <h2>Enquires form</h2>
                 <hr>
                 <label for="first_name">First Name</label>
                 <input type="text" name="first_name" id="first_name" class="text-input" required>
+                <hr>
                 <label for="last_name">Last Name</label>
                 <input type="text" name="last_name" id="last_name" class="text-input" required>
+                <hr>
                 <label for="email_address">Email Address</label>
                 <input type="email" name="email_address" id="email_address" class="text-input" required>
+                <hr>
                 <label for="phone_number">Phone Number</label>
                 <input type="number" name="phone_number" id="phone_number" class="text-input" required>
+                <hr>
                 <label for="car_make">Car Make</label>
                 <input type="text" name="car_make" id="car_make" class="text-input" required>
+                <hr>
                 <label for="model">Model</label>
                 <input type="text" name="model" id="model" class="text-input" required>
             </div>
@@ -63,6 +69,10 @@
                     <input type="radio" name="service_selection" id="paint_protection_selection" value="paint_protection_selection" required checked>
                 </div>
             </div>
+            <div id="submit">
+                <button type="submit" class"enquires-button">Request quote</button>
+            </div>
+            </form>
         </section>
     </main>
     <!-- Footer -->
