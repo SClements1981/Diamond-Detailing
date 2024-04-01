@@ -141,11 +141,13 @@ p {
     display: flex;
     justify-content: space-evenly;
     list-style-type: none;
+    background-color: white
 }
  #social-links li {
     font-size: 180%;
-    padding: 2%;
+    padding: 1%;
     color: black;
+    width: 33%;
  }
 
 /* Media query Width {414px and up} */
