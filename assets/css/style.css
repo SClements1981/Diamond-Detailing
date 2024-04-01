@@ -136,20 +136,25 @@ p {
 /* services page */
 
 #services-image {
-    background: url("../images/car-polish.jpg") no-repeat center center/cover;
+    background: url("../images/car-wash-side.jpg") no-repeat center center/cover;
+    width: 100%;
+    height: 400px;
+    position: relative;
 }
+
+#service-heading {
+    color: black;
+    padding-left: 25px;
+   }
 
 #services-list {
     padding: 0 25px;
-    color: white;
-    font-size: 130%;
-    font-weight: -100;
-    -webkit-text-stroke-color: black;
-    -webkit-text-stroke-width: .5px;
+    color: black;
+    font-size: 120%;
     height: 100%;
 }
 
-.diamond, .standard, {
+.diamond, .standard {
     padding-top: 15px;
 }
 
@@ -157,11 +162,13 @@ p {
     padding-top: 15px;
 }
 
+#cleaning > div {
+    padding-top: 20px;
+}
 
-#service-heading {
-    color: white;
-    padding-left: 25px;
-   }
+#paint > div {
+    padding-top: 20px;
+}
 
 
 /* Footer */
@@ -265,6 +272,11 @@ p {
     flex: 1;
    }
 
+
+   #services-list-image {
+    order: 0;
+   }
+
    #paint {
     order: 1;
    }
@@ -277,9 +289,7 @@ p {
     align-self: flex-end;
    }
 
-   #cleaning {
-    padding: 25px;
-   }
+
 
 
 /* Media query Large devices (laptop and desktops, 992px and up) */
