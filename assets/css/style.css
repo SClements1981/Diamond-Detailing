@@ -224,6 +224,7 @@ hr {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
+    max-width: 280px;
     padding: 10px 0;
 }
 
