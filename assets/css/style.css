@@ -262,14 +262,6 @@ hr {
         font-size: 200%;
         line-height: 80px;
     }
-
-    .radio-buttons {
-        display: flex;
-        flex-wrap: wrap;
-        justify-content: space-evenly;
-        padding: 10px 0;
-    }
-
 }
 
 
@@ -360,6 +352,13 @@ hr {
 
    ul {
     list-style-type: none;
+   }
+
+   .quote:hover {
+    border: 2px solid  rgb(84, 233, 201);
+    border-radius: 5px;
+    background-color: black;
+    color: white;
    }
 }
 /* Media query Large devices (laptop and desktops, 992px and up) */
