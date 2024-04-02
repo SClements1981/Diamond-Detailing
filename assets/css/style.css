@@ -221,9 +221,10 @@ hr {
 }
 
 .radio-buttons {
-    width: 100%;
     display: flex;
-    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 10px 0;
 }
 
 .quote {
@@ -261,6 +262,14 @@ hr {
         font-size: 200%;
         line-height: 80px;
     }
+
+    .radio-buttons {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+        padding: 10px 0;
+    }
+
 }
 
 
