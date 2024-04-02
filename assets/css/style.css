@@ -134,6 +134,12 @@ p {
     padding:0 25px;
 }
 
+#company_details {
+    padding: 0 5px;
+    text-align: center;
+    font-size: 80%;
+}
+
 /* services page */
 
 #services-image {
