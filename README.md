@@ -63,6 +63,9 @@ Diamond detailing is a site to help promote and help sell services. The site tar
 - I have tested this site works in differnt browsers, Chrome, Firefox and Safari.
 - The enquires form works correctly, all fields have to filled and the email has to be valid before the form can be submitted.
 
+- Lighthouse results have also confirmed the website is easy to read.
+![Lighthouse results](https://github.com/SClements1981/Diamond-Detailing/assets/161224118/0705bd2c-3375-4736-b096-581c5fbe6ed2)
+
 ### Unfixed bugs
 
 - No bugs need to be fixed.
