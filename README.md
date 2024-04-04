@@ -11,28 +11,28 @@ Diamond detailing is a site to help promote and help sell services. The site tar
     - The Navigation bar features on all 3 pages allowing the user to jump from one page to another with ease and without having to use the back button.
     - The logo is also responsive and will take the user to the home screen when clicked.
 
-![Nav Bar](assets/media/diamond_detailing_nav_bar.png)
+![Nav Bar](https://github.com/SClements1981/Diamond-Detailing/assets/161224118/827c0624-9cfa-4d63-ae18-37d9c7805674)
 
 - __The landing page image__
 
     - The landing includes a photograph with text overlay with company name.
     - The image shows users work carried out by Diamond detailing.
 
-![Landing page image](assets/media/diamond_detailing_landing.png)
+![Landing page image](https://github.com/SClements1981/Diamond-Detailing/assets/161224118/8446c2b1-aedf-475f-bb0a-f4ff179989e0)
 
 - __Company values__
 
     - Company values section shows brief services, company promise and location.
     - This section is fully responsive between media sizes.
 
-![Company values](assets/media/diamond_detailing_company_values.png)
+![Company values](https://github.com/SClements1981/Diamond-Detailing/assets/161224118/1697da40-10cd-441a-abef-fea71a48f11b)
 
 - __Company address and footer__
 
     - The company address and contact details are shown at the bottom of the page.
     - Medai links feature on all 3 pages, clicking the links will take you to the companies social media pages.
 
-![Contacts and media links](assets/media/diamond_detailing_contacts_media_links.png)
+![Contacts and media links](https://github.com/SClements1981/Diamond-Detailing/assets/161224118/1d633758-d76d-46f3-8c7a-9c5f48384c96)
 
 - __Services__
 
@@ -40,13 +40,13 @@ Diamond detailing is a site to help promote and help sell services. The site tar
     - Service lists appear under the image in a list format, these are full responsive between media sizes.
     - On larger screens, users will see an additional image between the service list, this uses up white space and looks visually pleasing.
 
-![Services](assets/media/diamond_detailing_services.png)
+![Services](https://github.com/SClements1981/Diamond-Detailing/assets/161224118/14b95d63-f65e-4f30-ba9a-2ca21ebd11ca)
 
 - __Enquiries form__
 
 - This page allows the user to request a quote, they are asked to fill in name, email, car details and then choose what services they require, once complete they can submit their request.
 
-![Enquiry form](assets/media/diamond_detailing_enquires.png)
+![Enquiry form](https://github.com/SClements1981/Diamond-Detailing/assets/161224118/cf8b8f41-fef9-42b4-844a-84ee88a1893c)
 
 ## Testing
 
