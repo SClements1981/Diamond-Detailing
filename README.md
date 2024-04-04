@@ -11,14 +11,14 @@ Diamond detailing is a site to help promote and help sell services. The site tar
     - The Navigation bar features on all 3 pages allowing the user to jump from one page to another with ease and without having to use the back button.
     - The logo is also responsive and will take the user to the home screen when clicked.
 
-![Nav Bar](media/diamon_detailing_nav_bar.png)
+![Nav Bar](media/diamond_detailing_nav_bar.png)
 
 - __The landing page image__
 
     - The landing includes a photograph with text overlay with company name.
     - The image shows users work carried out by Diamond detailing.
 
-![Landing page image](media/diamon_detailing_landing.png)
+![Landing page image](media/diamond_detailing_landing.png)
 
 - __Company values__
 
@@ -46,7 +46,7 @@ Diamond detailing is a site to help promote and help sell services. The site tar
 
 - This page allows the user to request a quote, they are asked to fill in name, email, car details and then choose what services they require, once complete they can submit their request.
 
-![Enquiry form](media/diamon_detailing_enquires.png)
+![Enquiry form](media/diamond_detailing_enquires.png)
 
 ## Testing
 
