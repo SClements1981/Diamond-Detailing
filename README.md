@@ -4,7 +4,7 @@ In this section, you will include one or two paragraphs providing an overview of
 
 For example; Love Running is a site that hopes to help keep people motivated to meet up for runs on a regular basis in Dublin, Ireland. The site will be targeted toward runners who are looking for a way to socialise and keep themselves fit. Love Running will be useful for runners to see exactly when and where they should be to join the running club. 
 
-![Responsive Mockup]
+![Responsive Mockup](/workspace/Diamond-Detailing/media/diamond_detailing_mockup.png)
 
 ## Existing Features
 
@@ -55,6 +55,24 @@ For example; Love Running is a site that hopes to help keep people motivated to 
 ### Validator Testing
 
     -HTML
-        - No errors were returned when passing through the official [W3C validator]
+        - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fsclements1981.github.io%2FDiamond-Detailing%2Fcontact-us.html)
     -CSS
-        - No errors were found when passing through the official [(Jigsaw) validator]
+        - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fsclements1981.github.io%2FDiamond-Detailing%2Fcontact-us.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+
+### Unfixed bugs
+
+    - No bugs need to be fixed.
+
+##Delpoyment
+
+    - This site was deployed to GitHub pages.
+
+The live link can be found here - https://sclements1981.github.io/Diamond-Detailing/contact-us.html
+
+##Credits
+
+###Media
+
+    - The images for the Home page and the oval image on the service page were taken from https://unsplash.com
+    - The images used for enquires page and service page were taken from https://pixabay.com
+
