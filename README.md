@@ -2,7 +2,7 @@
 
 Diamond detailing is a site to help promote and help sell services. The site targets customers looking to have their car cleaned by a professional company. The website shows off some existing work carried out on high end cars and gives details about the work that can be undertaken. The enquiries form gives the user quick user experience to obtaining a quote.
 
-![Responsive Mockup](media/diamond_detailing_mockup.png)
+![Responsive Mockup](assets/media/diamond_detailing_mockup.png)
 
 ## Existing Features
 
@@ -11,28 +11,28 @@ Diamond detailing is a site to help promote and help sell services. The site tar
     - The Navigation bar features on all 3 pages allowing the user to jump from one page to another with ease and without having to use the back button.
     - The logo is also responsive and will take the user to the home screen when clicked.
 
-![Nav Bar](media/diamond_detailing_nav_bar.png)
+![Nav Bar](assets/media/diamond_detailing_nav_bar.png)
 
 - __The landing page image__
 
     - The landing includes a photograph with text overlay with company name.
     - The image shows users work carried out by Diamond detailing.
 
-![Landing page image](media/diamond_detailing_landing.png)
+![Landing page image](assets/media/diamond_detailing_landing.png)
 
 - __Company values__
 
     - Company values section shows brief services, company promise and location.
     - This section is fully responsive between media sizes.
 
-![Company values](media/diamond_detailing_company_values.png)
+![Company values](assets/media/diamond_detailing_company_values.png)
 
 - __Company address and footer__
 
     - The company address and contact details are shown at the bottom of the page.
     - Medai links feature on all 3 pages, clicking the links will take you to the companies social media pages.
 
-![Contacts and media links](media/diamond_detailing_contacts_media_links.png)
+![Contacts and media links](assets/media/diamond_detailing_contacts_media_links.png)
 
 - __Services__
 
@@ -40,13 +40,13 @@ Diamond detailing is a site to help promote and help sell services. The site tar
     - Service lists appear under the image in a list format, these are full responsive between media sizes.
     - On larger screens, users will see an additional image between the service list, this uses up white space and looks visually pleasing.
 
-![Services](media/diamond_detailing_services.png)
+![Services](assets/media/diamond_detailing_services.png)
 
 - __Enquiries form__
 
 - This page allows the user to request a quote, they are asked to fill in name, email, car details and then choose what services they require, once complete they can submit their request.
 
-![Enquiry form](media/diamond_detailing_enquires.png)
+![Enquiry form](assets/media/diamond_detailing_enquires.png)
 
 ## Testing
 
