@@ -2,7 +2,7 @@
 
 Diamond detailing is a site to help promote and help sell services. The site targets customers looking to have their car cleaned by a professional company. The website shows off some existing work carried out on high end cars and gives details about the work that can be undertaken. The enquiries form gives the user quick user experience to obtaining a quote.
 
-![Responsive Mockup](assets/media/diamond_detailing_mockup.png)
+![Responsive Mockup](https://github.com/SClements1981/Diamond-Detailing/assets/161224118/630eeda2-4d97-4404-a31c-e7d06c94e114)
 
 ## Existing Features
 
