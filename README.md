@@ -1,8 +1,6 @@
 # Diamond Detailing
 
-In this section, you will include one or two paragraphs providing an overview of your project. Essentially, this part is your sales pitch. At this stage, you should have a name for your project so use it! Don’t introduce the project as a Portfolio project for the diploma. In this section, describe what the project hopes to accomplish, who it is intended to target and how it will be useful to the target audience. 
-
-For example; Love Running is a site that hopes to help keep people motivated to meet up for runs on a regular basis in Dublin, Ireland. The site will be targeted toward runners who are looking for a way to socialise and keep themselves fit. Love Running will be useful for runners to see exactly when and where they should be to join the running club. 
+Diamond detailing is a site to help promote and help sell services. The site targets customers looking to have their car cleaned by a professional company. The website shows off some existing work carried out on high end cars and gives details about the work that can be undertaken. The enquiries form gives the user quick user experience to obtaining a quote.
 
 ![Responsive Mockup](media/diamond_detailing_mockup.png)
 
@@ -24,7 +22,7 @@ For example; Love Running is a site that hopes to help keep people motivated to 
 
 - __Company values__
 
-    - Company values section shows breif services, company promise and location.
+    - Company values section shows brief services, company promise and location.
     - This section is fully responsive between media sizes.
 
 ![Company values](media/diamond_detailing_company_values.png)
@@ -38,7 +36,7 @@ For example; Love Running is a site that hopes to help keep people motivated to 
 
 - __Services__
 
-    - Users will see another image of work carrried out by Diamond detailing.
+    - Users will see another image of work carried out by Diamond detailing.
     - Service lists appear under the image in a list format, these are full responsive between media sizes.
     - On larger screens, users will see an additional image between the service list, this uses up white space and looks visually pleasing.
 
